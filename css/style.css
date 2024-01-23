@@ -326,7 +326,7 @@ button {
 }
 
 .bg-light {
-    background-color: #c9d652!important;
+    background-color: #e8e9e2!important;
 }
 
 .sidenav {
@@ -472,7 +472,7 @@ button {
     color: #c9d652;
 }
 .custome_menu li.active a{
-    color: #c9d652;
+    color: #fafddf;
 }
 
 .login_menu {}
